@@ -7,7 +7,7 @@ The id values of the landmarks that are being tracked are provided in the below 
 2. The only modification you need to change is the argument of the function cv2.videoCaputure() in the line number 56. If 0 is passed as an argument then the input of the program    is taken for the live cam and if the location of any video file is provided as input then the frames of the image will be taken as input.
 3.The entire code consists of two functions, the task that is done by each function is clearly provided as a docstring for that function.
 4. Play with the arguments of functions as you like.
-5. The output of the above code for tracking left shoulder and right should of the person will be as follows.
+5. The output of the above code for tracking left shoulder and right shoulder of the person will be as follows.
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lzi49Y1RvQE/0.jpg)](http://www.youtube.com/watch?v=lzi49Y1RvQE)
 
 
